@@ -13,8 +13,8 @@
 
 1. Install AWS CLI
 2. Configure your AWS CLI credentials
-3. Type the following: ```aws cloudformation create-stack --stack-name <name-for-your-stack>  --template-body <path-to-this-json-file> --parameters ParameterKey=RootDomainName,ParameterValue=<your-root-domain>```
+3. Type the following: ```aws cloudformation create-stack --stack-name <name-for-your-stack>  --template-body <path-to-cloudFront.json-file> --parameters ParameterKey=RootDomainName,ParameterValue=<your-root-domain>```
 
 
-live. thrive. contribute.
-:smile: :muscle: :rocket:
+contribute. live. thrive.  
+:rocket: :smile: :muscle:
