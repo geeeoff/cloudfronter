@@ -16,5 +16,5 @@
 3. Type the following: ```aws cloudformation create-stack --stack-name <name-for-your-stack>  --template-body <path-to-cloudFront.json-file> --parameters ParameterKey=RootDomainName,ParameterValue=<your-root-domain>```
 
 
-contribute. live. thrive.  
-:rocket: :smile: :muscle:
+live. contribute. thrive.  
+:smile: :rocket: :muscle:
